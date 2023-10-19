@@ -8,3 +8,6 @@ parcel index.html
 
 For Production:
 parcel build index.html
+
+### Page
+https://josefy.netlify.app/
